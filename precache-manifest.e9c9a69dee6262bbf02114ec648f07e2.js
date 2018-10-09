@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/memory-game/static/css/main.af85a2dd.chunk.css"
   },
   {
-    "revision": "9e5d7c07c6afca47500af4f322e1e6cf",
+    "revision": "010e0921e71affb42a2b1c64e1285555",
     "url": "/memory-game/index.html"
   }
 ];
